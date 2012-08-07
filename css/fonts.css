@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Stylo-Bold';
+    src: url('fonts/stylobold.eot');
+    src: url('fonts/stylobold.eot?#iefix') format('embedded-opentype'),
+        url('fonts/stylobold.woff') format('woff'),
+        url('fonts/stylobold.ttf') format('truetype'),
+        url('fonts/stylobold.svg#stylobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
